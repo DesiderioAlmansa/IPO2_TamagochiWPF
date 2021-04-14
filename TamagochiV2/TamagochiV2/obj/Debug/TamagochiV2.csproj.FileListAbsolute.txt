@@ -1,0 +1,17 @@
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\MainWindow.g.cs
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\VentanaBienvenida.g.cs
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\App.g.cs
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2_MarkupCompile.cache
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2_MarkupCompile.lref
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\bin\Debug\TamagochiV2.exe.config
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\bin\Debug\TamagochiV2.exe
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\bin\Debug\TamagochiV2.pdb
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\MainWindow.baml
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\VentanaBienvenida.baml
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.g.resources
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.Properties.Resources.resources
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.csproj.GenerateResource.cache
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.csproj.CoreCompileInputs.cache
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.exe
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.pdb
+C:\Users\Desiderio\source\repos\TamagochiV2\TamagochiV2\obj\Debug\TamagochiV2.csprojAssemblyReference.cache
